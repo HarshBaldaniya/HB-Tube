@@ -1,70 +1,52 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# HBTube
 
-## Available Scripts
+HBTube is a web application that provides an easy way to search and play videos from the internet. With our powerful search engine, you can quickly find the video you're looking for, whether it's a music video, a tutorial, a movie trailer, or anything else.
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo
 
-### `npm test`
+To see a demo of this project, check out this [Link](https://hb-tube.netlify.app/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Search for videos using keywords
+- Filter search results by video duration and upload date
+- View video thumbnails and titles
+- Play videos directly on the website
+- Control playback using on-screen controls
+- Adjust video quality settings
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- jQuery
+- YouTube API
+- ReactJS
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Screenshots
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![2023-04-02 18_58_05-Settings](https://user-images.githubusercontent.com/89580214/229355970-5c36325c-f595-46ab-826c-d625315734b0.png)
+![2023-04-02 18_58_58-Settings](https://user-images.githubusercontent.com/89580214/229355972-6d8806b3-afd7-4348-ad3d-e2a1749f73ad.png)
+![2023-04-02 18_59_13-Settings](https://user-images.githubusercontent.com/89580214/229355974-bef5fb95-fdf2-4307-a2e4-cd996ea02877.png)
+![2023-04-02 18_59_53-Settings](https://user-images.githubusercontent.com/89580214/229355976-ca532e5f-b336-4e32-837a-77f0feafcfac.png)
+![2023-04-02 19_00_52-Settings](https://user-images.githubusercontent.com/89580214/229355980-b906f162-7732-4840-ade1-43b70f58d123.png)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.harshbaldaniya.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hb134/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
