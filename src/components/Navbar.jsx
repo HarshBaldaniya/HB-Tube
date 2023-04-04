@@ -19,7 +19,7 @@ const Navbar = () => (
     <Link to="/" style={{ display: "flex", alignItems: "center" }}>
       <img src={logo} alt="logo" height={45} />
       <Typography sx={{ color: "red", fontFamily: "Verdana", marginLeft: "1rem", fontWeight: "600", display: { xs: 'none', sm: 'block' } }}>
-        HB Tube
+      WisdomYT
       </Typography>
       {/* <h3 style={{}} >HB Tube</h3> */}
     </Link>

@@ -13,24 +13,25 @@ import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
 import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 
 // export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
-export const logo = "https://i.postimg.cc/J0JYtKKv/hb-tube-logo.png";
+// export const logo = "https://i.postimg.cc/J0JYtKKv/hb-tube-logo.png";
+export const logo = "https://static.vecteezy.com/system/resources/previews/007/451/269/original/neon-symbol-code-icon-black-color-in-circle-red-color-illustration-flat-style-image-vector.jpg";
 
 export const categories = [
   { name: "Suggested", icon: <HomeIcon /> },
-  { name: "Valorant", icon: <SportsEsportsIcon /> },
-  { name: "Music", icon: <MusicNoteIcon /> },
+  { name: "Git", icon: <SportsEsportsIcon /> },
+  { name: "GitHub", icon: <MusicNoteIcon /> },
   { name: "Education", icon: <SchoolIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
   { name: "ReactJS", icon: <CodeIcon /> },
   { name: "Crypto", icon: <DeveloperModeIcon /> },
   { name: "NextJS", icon: <CodeIcon /> },
   { name: "Javascript Mastery", icon: <CodeIcon /> },
-  { name: "Podcast", icon: <GraphicEqIcon /> },
-  { name: "Movie", icon: <OndemandVideoIcon /> },
-  { name: "Gaming", icon: <SportsEsportsIcon /> },
-  { name: "Live", icon: <LiveTvIcon /> },
-  { name: "Sport", icon: <FitnessCenterIcon /> },
-  { name: "Fashion", icon: <CheckroomIcon /> },
+  { name: "mySQL", icon: <GraphicEqIcon /> },
+  { name: "MongoDB", icon: <OndemandVideoIcon /> },
+  { name: "DataBase", icon: <SportsEsportsIcon /> },
+  { name: "LiveCode", icon: <LiveTvIcon /> },
+  { name: "Coding", icon: <FitnessCenterIcon /> },
+  { name: "WebDev", icon: <CheckroomIcon /> },
   { name: "Beauty", icon: <FaceRetouchingNaturalIcon /> },
   { name: "Comedy", icon: <TheaterComedyIcon /> },
   { name: "Gym", icon: <FitnessCenterIcon /> },
